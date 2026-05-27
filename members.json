@@ -1,23 +1,23 @@
 [
   {
-    "name": "Ayushi Sharma",
-    "role": "Partnerships Lead, Global Shapers DC Hub",
-    "industry": "International Development",
+    "name": "Steven Qi",
+    "role": "Economic & Research Analyst, International Monetary Fund (IMF)",
+    "industry": "International Finance & Economic Policy ",
     "internal_role": "Curator",
-    "bio": "Ayushi is a civic leader and partnerships strategist focused on policy, health equity, and community organizing across Washington, DC.",
-    "email": "ayushi@example.com",
-    "headshot": "assets/headshots/ayushi-sharma.jpg",
-    "linkedin": "https://linkedin.com/in/ayushisharma"
+    "bio": "Steven Qi is a Country Analyst in the African Department at the International Monetary Fund (IMF), where he advises the Mission Chiefs and country teams on critical economic policy and analytical output of key IMF country programs. Previously, Steven worked with UN agencies such as UNFPA, where he focused on strategic communications, stakeholder engagement, and humanitarian affairs. He has spoken at institutions including United Nations Headquarters, the World Bank, and Cambridge University. His work bridges economics, diplomacy, and community impact, driven by a passion for connecting people, ideas, and opportunities across borders to deliver lasting positive change.",
+    "email": "steve1618q@gmail.com",
+    "headshot": "assets/headshots/steven-qi.jpg",
+    "linkedin": "https://linkedin.com/in/stevenqi"
   },
   {
-    "name": "Jordan Lee",
-    "role": "Policy Analyst, Brookings Institution",
-    "industry": "Public Policy",
+    "name": "Bridget McManamon",
+    "role": "",
+    "industry": "",
     "internal_role": "Curator",
-    "bio": "Jordan works at the intersection of climate policy and economic development, advising on federal infrastructure strategy.",
-    "email": "jordan@example.com",
-    "headshot": "assets/headshots/jordan-lee.jpg",
-    "linkedin": "https://linkedin.com/in/jordanlee"
+    "bio": "",
+    "email": "bridget@example.com",
+    "headshot": "assets/headshots/bridget-mccanamon.jpg",
+    "linkedin": "https://linkedin.com/in/bridgetmccanamon"
   },
   {
     "name": "Priya Nair",

@@ -15,7 +15,7 @@
       --ink: #1a1915;
       --ink-muted: #6b6860;
       --ink-faint: #b0ada6;
-      --accent: #1a3a2e;
+      --accent: #171937;
       --accent-light: #e8f0ec;
       --border: #e2dfd8;
       --sans: 'DM Sans', sans-serif;
@@ -151,14 +151,14 @@
 
     .member-grid {
       display: grid;
-      grid-template-columns: repeat(3, 1fr);
+      grid-template-columns: repeat(4, 1fr);
       gap: 1.5rem;
     }
 
     /* Leadership section gets 2-col centered grid */
     .member-grid.leadership-grid {
-      grid-template-columns: repeat(2, 1fr);
-      max-width: 760px;
+      grid-template-columns: repeat(3, 1fr);
+      max-width: 100%;
     }
 
     @media (max-width: 900px) {
@@ -472,7 +472,7 @@
 
 <header>
   <p class="hub-eyebrow">World Economic Forum · Global Shapers</p>
-  <h1>Washington, DC Hub<br><em>Our Members</em></h1>
+  <h1>Global Shapers Community · Washington D.C. Hub<br><em>Our Members</em></h1>
   <p class="header-sub">Young leaders shaping the future of policy, technology, and civic life in Washington, DC.</p>
 </header>
 
@@ -568,10 +568,9 @@
     body.innerHTML = `
       <p class="card-industry">${member.industry}</p>
       <p class="card-name">${member.name}</p>
+      <p class="card-role">${member.internal_role}</p>
       <p class="card-role">${member.role}</p>
-            <p class="card-role">${member.internal_role}</p>
-
-      <p class="card-bio">${member.bio}</p>
+      <p class="card-bio">${member.bio.length > 100 ? member.bio.slice(0, 100).trimEnd() + '…' : member.bio}</p>
     `;
     card.appendChild(body);
 

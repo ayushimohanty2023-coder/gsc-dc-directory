@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Ayushi Sharma",
+    "role": "Partnerships Lead, Global Shapers DC Hub",
+    "industry": "International Development",
+    "bio": "Ayushi is a civic leader and partnerships strategist focused on policy, health equity, and community organizing across Washington, DC.",
+    "email": "ayushi@example.com",
+    "headshot": "assets/headshots/ayushi-sharma.jpg",
+    "linkedin": "https://linkedin.com/in/ayushisharma"
+  },
+  {
+    "name": "Jordan Lee",
+    "role": "Policy Analyst, Brookings Institution",
+    "industry": "Public Policy",
+    "bio": "Jordan works at the intersection of climate policy and economic development, advising on federal infrastructure strategy.",
+    "email": "jordan@example.com",
+    "headshot": "assets/headshots/jordan-lee.jpg",
+    "linkedin": "https://linkedin.com/in/jordanlee"
+  },
+  {
+    "name": "Priya Nair",
+    "role": "MBA Candidate, Georgetown University",
+    "industry": "Finance",
+    "bio": "Priya is a first-generation college student and aspiring social entrepreneur with experience in microfinance across South Asia.",
+    "email": "priya@example.com",
+    "headshot": "assets/headshots/priya-nair.jpg",
+    "linkedin": "https://linkedin.com/in/priyanair"
+  },
+  {
+    "name": "Marcus Webb",
+    "role": "Software Engineer, Palantir",
+    "industry": "Technology",
+    "bio": "Marcus builds data infrastructure for public sector clients, with a focus on transparency and civic tech.",
+    "email": "marcus@example.com",
+    "headshot": "assets/headshots/marcus-webb.jpg",
+    "linkedin": "https://linkedin.com/in/marcuswebb"
+  },
+  {
+    "name": "Sofia Delgado",
+    "role": "Health Equity Researcher, GWU",
+    "industry": "Healthcare",
+    "bio": "Sofia's research centers on maternal health disparities in urban communities, with published work in JAMA Network Open.",
+    "email": "sofia@example.com",
+    "headshot": "assets/headshots/sofia-delgado.jpg",
+    "linkedin": "https://linkedin.com/in/sofiadelgado"
+  },
+  {
+    "name": "Tariq Hassan",
+    "role": "Foreign Service Officer, U.S. Department of State",
+    "industry": "Diplomacy",
+    "bio": "Tariq has served in three countries across Sub-Saharan Africa, specializing in economic diplomacy and trade policy.",
+    "email": "tariq@example.com",
+    "headshot": "assets/headshots/tariq-hassan.jpg",
+    "linkedin": "https://linkedin.com/in/tariqhassan"
+  }
+]

@@ -20,83 +20,143 @@
     "linkedin": "https://linkedin.com/in/bridgetmccanamon"
   },
   {
-    "name": "Priya Nair",
-    "role": "MBA Candidate, Georgetown University",
-    "industry": "Finance",
-    "internal_role": "Vice Curator",
-    "bio": "Priya is a first-generation college student and aspiring social entrepreneur with experience in microfinance across South Asia.",
-    "email": "priya@example.com",
-    "headshot": "assets/headshots/priya-nair.jpg",
-    "linkedin": "https://linkedin.com/in/priyanair"
+    "name": "Evan Marlborough",
+    "role": "",
+    "industry": "Nonprofit",
+    "internal_role": "Curator - Elect",
+    "bio": "",
+    "email": "",
+    "headshot": "assets/headshots/evan-marlborough.jpg",
+    "linkedin": ""
   },
   {
-    "name": "Marcus Webb",
+    "name": "Tyler Tucker",
     "role": "Software Engineer, Palantir",
     "industry": "Technology",
-    "internal_role": "Vice Curator",
-    "bio": "Marcus builds data infrastructure for public sector clients, with a focus on transparency and civic tech.",
-    "email": "marcus@example.com",
-    "headshot": "assets/headshots/marcus-webb.jpg",
-    "linkedin": "https://linkedin.com/in/marcuswebb"
+    "internal_role": "Curator - Elect",
+    "bio": "Tyler builds data infrastructure for public sector clients, with a focus on transparency and civic tech.",
+    "email": "tyler@example.com",
+    "headshot": "assets/headshots/tyler-tucker.jpg",
+    "linkedin": "https://linkedin.com/in/tylertucker"
   },
   {
-    "name": "Sofia Delgado",
-    "role": "Health Equity Researcher, GWU",
-    "industry": "Healthcare",
-    "internal_role": "Impact Officer",
-    "bio": "Sofia's research centers on maternal health disparities in urban communities, with published work in JAMA Network Open.",
-    "email": "sofia@example.com",
-    "headshot": "assets/headshots/sofia-delgado.jpg",
-    "linkedin": "https://linkedin.com/in/sofiadelgado"
+    "name": "Ayushi Mohanty",
+    "role": "Data Engineer, Mastercard",
+    "industry": "Technology",
+    "internal_role": "Vice Curator - Elect",
+    "bio": "Ayushi is a data engineer at Mastercard, where she builds data pipelines and infrastructure to support the company's Fortune 500 cleint engagements. She is passionate about using technology to drive social impact and has experience working on projects related to equitable technology adoption. Ayushi is also an advocate for diversity and inclusion in the tech industry and is committed to creating opportunities for underrepresented groups in technology.",
+    "email": "ayushi.mohanty2023@gmail.com",
+    "headshot": "assets/headshots/ayushi-mohanty.jpg",
+    "linkedin": "https://linkedin.com/in/ayushimohanty"
   },
   {
-    "name": "Tariq Hassan",
-    "role": "Foreign Service Officer, U.S. Department of State",
-    "industry": "Diplomacy",
-    "internal_role": "Impact Officer",
-    "bio": "Tariq has served in three countries across Sub-Saharan Africa, specializing in economic diplomacy and trade policy.",
-    "email": "tariq@example.com",
-    "headshot": "assets/headshots/tariq-hassan.jpg",
-    "linkedin": "https://linkedin.com/in/tariqhassan"
+    "name": "Bo Allen",
+    "role": "",
+    "industry": "",
+    "internal_role": "Impact Officer - Elect",
+    "bio": "",
+    "headshot": "assets/headshots/bo-allen.jpg",
+    "email": "",
+    "linkedin": ""
   },
   {
-    "name": "Lena Park",
-    "role": "Legislative Assistant, U.S. Senate",
-    "industry": "Public Policy",
+    "name": "Christian Gyles Ramos",
+    "role": "Operations and Special Projects Associate (APIA Scholars)",
+    "industry": "Nonprofit",
+    "internal_role": "Vice Curator - Elect",
+    "bio": "Christian Gyles Ramos is an Operations and Special Projects Associate at APIA Scholars. He plays a proactive role in supporting multiple departments by assisting with various projects and administrative tasks, while advocating for resources that advance AANHPI students in higher education. Previously, Christian served as a Congressional Intern for the Office of Representative Judy Chu (CA-28) and as an Office Intern for the Asian Pacific American Institute for Congressional Studies (APAICS). \n Christian is a proud first-generation college graduate from the University of Guam, where he earned a Bachelor of Business Administration degree and was recognized as a 2023 Truman Scholar. After graduation, he continued to further his passion for public service in Washington, D.C. through volunteering with APAICS, SMYAL, Truman Scholars Association, Global Shapers (Washington, D.C. Hub), and Men4Choice. \n With a deep passion and commitment for public service, he constantly strives to uplift the voices of AANHPI, LGBTQ+, and first-generation, low-income (FGLI) students everywhere. As an LGBTQ+ son of Filipino immigrant parents and from an economically disadvantaged background, Christian has witnessed firsthand the systemic disparities that hinder individuals from having a fair opportunity at life. These experiences fuel his passion for social justice, inspire him to create meaningful change, and champion policies that uplift marginalized communities everywhere. He hopes to pursue an MPA and/or JD to further his commitment and drive to advocate for equitable access to affordable housing, healthcare, education, and food security for low-income families and marginalized communities.",
+    "email": "christiangylesramos@gmail.com",
+    "headshot": "assets/headshots/christian-ramos.jpeg",
+    "linkedin": "https://linkedin.com/in/christiangylesramos"
+  },
+  {
+    "name": "Anthony Johnson",
+    "role": "Head of Portfolio Strategy, Tenable",
+    "industry": "Technology",
     "internal_role": "Current Shaper",
-    "bio": "Lena supports senior staff on education and workforce development legislation, bringing a focus on equity and access.",
-    "email": "lena@example.com",
-    "headshot": "assets/headshots/lena-park.jpg",
+    "bio": "Anthony Johnson is a corporate strategy and public affairs leader committed to leveraging technology and community collaboration to build a safer and more equitable society. At Tenable, he leads strategic global business initiatives that equip organizations with AI-powered cybersecurity solutions to protect IT, cloud, and critical infrastructure. A trusted advisor to senior executives and civil society organizations, Anthony brings a global perspective shaped by previous leadership roles held at Bain & Company, Siemens, and UN Human Rights. He holds degrees from the University of Cincinnati and The London School of Economics. He currently resides in Washington, DC with his wife Amanda and two cats, Athena and Rhea.",
+    "email": "ajohnson@tenable.com",
+    "headshot": "assets/headshots/anthony-johnson.jpeg",
     "linkedin": "https://linkedin.com/in/lenapark"
   },
   {
-    "name": "David Osei",
-    "role": "MD-PhD Candidate, Howard University",
-    "industry": "Healthcare",
-    "internal_role": "Current Shaper",
-    "bio": "David researches infectious disease epidemiology with a focus on health disparities in underserved urban populations.",
-    "email": "david@example.com",
-    "headshot": "assets/headshots/david-osei.jpg",
-    "linkedin": "https://linkedin.com/in/davidosei"
-  },
-  {
-    "name": "Camille Rousseau",
-    "role": "Climate Finance Analyst, World Bank",
-    "industry": "International Development",
+    "name": "Akash Mehta",
+    "role": "Environmental Specialist, World Bank",
+    "industry": "Environment",
     "internal_role": "Alumni",
-    "bio": "Camille spent three years with the DC Hub before joining the World Bank's climate finance team, where she structures green bonds for emerging markets.",
-    "email": "camille@example.com",
-    "headshot": "assets/headshots/camille-rousseau.jpg",
-    "linkedin": "https://linkedin.com/in/camillerouseau"
+    "bio": "Akash Mehta is an Environmental Specialist at the World Bank Group's Environment Department. In this capacity, he focuses on integrating cutting-edge technologies such as geospatial analytics, GIS and artificial intelligence into development projects, primarily through his support for the Knowledge, Information & Data Services Helpdesk. With nearly a decade of experience spanning the public and academic sectors, he has contributed to various environmental initiatives, including drought and flood monitoring, biodiversity conservation, and landscape restoration. Beyond his operational duties, Akash supports several flagship global initiatives, including the Livable Planet Observatory, Extended Producer Responsibility for Plastics, Africa Eurasian Flyway Initiative and Accelerating Access to Clean Air. \n Prior to the World Bank, Akash held positions with the University of Cambridge, the governments of Senegal and India, and the Reserve Bank of India. He holds a Master of Public Administration in International Development from the London School of Economics and a Bachelor of Economics (Honors) from Shri Ram College of Commerce. Outside of work, Akash is an avid nature enthusiast and enjoys playing squash.",
+    "email": "akashmehta10007@gmail.com",
+    "headshot": "assets/headshots/akash-mehta.jpeg",
+    "linkedin": "https://linkedin.com/in/akashmehta"
   },
   {
-    "name": "James Okonkwo",
-    "role": "Senior Associate, McKinsey & Company",
+    "name": "Kathleen Schwind",
+    "role": "Engagement Manager,McKinsey & Co.",
     "industry": "Consulting",
     "internal_role": "Alumni",
-    "bio": "James served as Curator of the DC Hub from 2022–2024 and now advises on public sector transformation projects across Africa and the US.",
-    "email": "james@example.com",
-    "headshot": "assets/headshots/james-okonkwo.jpg",
-    "linkedin": "https://linkedin.com/in/jamesokonkwo"
+    "bio": "Kathleen Schwind is a leader at the intersection of defense, diplomacy, and global business. At McKinsey & Co., she leads geopolitics, defense, and supply chain resilience teams, driving defense industrial base transformations, aligning senior international partners on first-of-its-kind multilateral agreements, and shaping executive-level decisions amid complex geopolitical landscapes. ",
+    "email": "kschwind@alum.mit.edu",
+    "headshot": "assets/headshots/kathleen-schwind.jpeg",
+    "linkedin": "https://linkedin.com/in/kathleenschwind"
+  },
+  {
+    "name": "Olivia Solomon",
+    "role": "Georgetown University Masters of Urban and Regional Planning",
+    "industry": "Urban Planning",
+    "internal_role": "Current Shaper",
+    "bio": "Olivia is earning her masters degree in Urban and Regional Planning at Georgetown University. She is utilizing her past experience of political organizing to specialize in community planning and housing policy. She seeks to use her degree to reform or housing system and create and better future for all.",
+    "email": "oliviasolomon13@gmail.com",
+    "headshot": "assets/headshots/olivia-solomon.jpeg",
+    "linkedin": "https://linkedin.com/in/oliviasolomon"
+  },
+  {
+    "name": "Shahaan Mirza",
+    "role": "Assurety Consulting & Solutions; Head of AI & Product Innovation",
+    "industry": "Logistics",
+    "internal_role": "Impact Officer - Elect",
+    "bio": "Shahaan is an operator with a background in venture capital, startup mentorship, and early-stage business building. As Head of AI & Product Innovation, he oversees AI governance, strategy, and manages several products across Assurety's enterprise suite in the AI and Business Intelligence category. In his free time, he advises early stage startups, and leads TownHallOS, a 501(c)3 think tank helping civic orgs and nonprofits understand policy in real community context. He manages uncertainty, and unites purpose-driven people to create successful outcomes.",
+    "email": "Shahaanmirza@gmail.com",
+    "headshot": "assets/headshots/shahaan-mirza.jpeg",
+    "linkedin": "https://linkedin.com/in/shahaanmirza"
+  },
+  {
+    "name": "Elena Anthie Sarigeorgiou",
+    "role": "International Studies Undergraduate, American University",
+    "industry": "International Affairs",
+    "internal_role": "Current Shaper",
+    "bio": "Elena Sarigeorgiou is a senior at American University's School of International Service, where she studies International Studies with a focus on the intersection of youth engagement, policy, and global development. Her work centers on how institutions design and implement policy affecting young people, with attention to education systems, and the role of youth in shaping more inclusive and accountable instituions. \n She has contributed to policy research and programming across nonprofit, government, and multilateral contexts. As an Intern the Aspen Institute, she supported research and convenings on philanthropy and the nonprofit sector. She also works with the DMUN Foundation, where she has drafted policy briefs on youth participation and economic development. Her previous experience includes contributing to a policy report on youth engagement at the Delaware Department of Education and leading advocacy initiatives on girls' education with an international civil society organization. \n Across her work, Elena has developed a strong foundation in policy research, writing, and stakeholder engagement, with a particular interest in how youth perspectives can move beyond consultation to meaningful influence in decision-making processes.",
+    "email": "elena.sarig1@gmail.com",
+    "headshot": "assets/headshots/elena-sarigeorgiou.jpeg",
+    "linkedin": "https://linkedin.com/in/elena-anthie-sarigeorgiou"
+  },
+  {
+    "name": "Valerie Aguilar Dellisanti",
+    "role": "Senior Analyst, 57 Stars",
+    "industry": "International Finance",
+    "internal_role": "Current Shaper",
+    "bio": "Valerie Aguilar Dellisanti (Peru, 24 years old) is a tech diplomacy advocate and investment professional, working in the international finance industry in the Washington D.C. area. She moved to the DMV after graduating from Brown University in 2023. She is currently an incoming dual degree candidate at the Stanford Graduate School of Business and the Harvard Kennedy School. In her free time, Valerie loves dancing, music, learning languages, and traveling the world.",
+    "email": "valerie23ad@gmail.com",
+    "headshot": "assets/headshots/valerie-dellisanti.jpeg",
+    "linkedin": "https://linkedin.com/in/valerie-aguilar-dellisanti"
+  },
+  {
+    "name": "Alexandra Kaiss",
+    "role": "Senior International Trade Specialist, Cassidy Levy Kent",
+    "industry": "International Trade Law",
+    "internal_role": "Current Shaper",
+    "bio": "Alexandra Kaiss is a Senior International Trade Specialist at Cassidy Levy Kent in Washington, D.C. Her work supports the representation of governments and companies in trade litigation before U.S. agencies and courts, while also advising clients on navigating complex regulatory trade environments. \n Alexandra was selected as the American Young Trade Leader at the World Trade Organization—one of seven participants globally—where she works to advance youth perspectives in multilateral trade discussions and promote greater understanding of the WTO's work in the United States. She also serves on the Albrecht Fellowship Advisory Board at the World Trade Center Institute, helping shape youth-driven programming focused on international business and diplomacy. \n She received her B.A. in International Relations and a Certificate in Advanced Leadership Studies from American University in 2023, with additional studies completed at Sciences Po.",
+    "email": "alexandra.kaiss@gmail.com",
+    "headshot": "assets/headshots/alexandra-kaiss.jpeg",
+    "linkedin": "https://linkedin.com/in/alexandra-kaiss"
+  },
+  {
+    "name": "Sophia N. Wallace",
+    "role": "Senior Program Associate for the International Partners, Aspen Institute",
+    "industry": "Nonprofit",
+    "internal_role": "Current Shaper",
+    "bio": "Sophia Wallace is a Senior Program Associate with the Aspen Institute International Partners, where she manages institutional partnerships and global initiatives across a network of 13 Aspen Institutes worldwide. Her work focuses on leadership and emerging global challenges, leading international initiatives that convene policymakers, experts, and emerging leaders across sectors. She has led major international initiatives including the 2024 NATO Youth Summit and founded the Global Changemakers Workshop, a leadership initiative that convenes emerging leaders from around the world to engage critical challenges shaping democracy, governance, and security. Prior to Aspen, Sophia worked with the U.S. Department of State’s Bureau of European and Eurasian Affairs and supported refugee resettlement efforts through Catholic Charities Refugee and Migration Services. Sophia holds a Bachelor of Arts in Government and International Politics, with a minor in International Security, from George Mason University, where she graduated summa cum laude. She is an incoming M.A. candidate in International Relations at Johns Hopkins School of Advanced International Studies concentrating in Security, Strategy, and Statecraft, a member of the Pi Sigma Alpha National Political Science Honor Society, and a member of the Washington, DC Hub of the Global Shapers Community.",
+    "email": "wallacesophia90@gmail.com",
+    "headshot": "assets/headshots/sophia-wallace.JPG",
+    "linkedin": "https://linkedin.com/in/sophia-n-wallace"
   }
 ]

@@ -33,10 +33,16 @@
 
     /* ── Header ── */
     header {
-      background: var(--accent);
-      padding: 3.5rem 2rem 3rem;
-      text-align: center;
-    }
+  background: var(--accent);
+  padding: 0 2rem;
+  height: 64px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+}
 
     .hub-eyebrow {
       font-family: var(--sans);
@@ -70,20 +76,66 @@
       margin: 0 auto;
       line-height: 1.6;
     }
+    .header-left {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  text-decoration: none;
+}
+
+.header-logo {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.15);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.header-logo-img {
+  height: 36px;
+  width: auto;
+}
+.header-title {
+  font-family: var(--sans);
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #fff;
+  letter-spacing: 0.01em;
+}
+
+.contact-btn {
+  font-family: var(--sans);
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #fff;
+  background: transparent;
+  border: 1.5px solid rgba(255,255,255,0.5);
+  border-radius: 999px;
+  padding: 0.45rem 1.1rem;
+  text-decoration: none;
+  transition: all 0.18s;
+  white-space: nowrap;
+}
+
+.contact-btn:hover {
+  background: #fff;
+  border-color: #fff;
+  color: var(--accent);
+}
+
+
 
     /* ── Filter bar ── */
-    .filter-bar {
-      background: var(--surface);
-      border-bottom: 1px solid var(--border);
-      padding: 1rem 2rem;
-      display: flex;
-      align-items: center;
-      gap: 0.75rem;
-      flex-wrap: wrap;
-      position: sticky;
-      top: 0;
-      z-index: 100;
-    }
+    .filter-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 2.5rem;
+}
 
     .filter-label {
       font-size: 0.72rem;
@@ -471,15 +523,19 @@
 <body>
 
 <header>
-  <p class="hub-eyebrow">World Economic Forum · Global Shapers</p>
-  <h1>Global Shapers Community · Washington D.C. Hub<br><em>Our Members</em></h1>
-  <p class="header-sub">Young leaders shaping the future of policy, technology, and civic life in Washington, DC.</p>
+  <div class="header-left">
+    <img src="assets/headshots/GSC_DC-logo-white.png" alt="Global Shapers DC Hub" class="header-logo-img" />
+
+    <span class="header-title">Shapers Directory</span>
+  </div>
+  <a class="contact-btn" href="https://example.com/contact">Contact Us</a>
 </header>
 
-<nav class="filter-bar" aria-label="Filter by industry">
-  <span class="filter-label">Filter</span>
-  <button class="filter-btn active" data-filter="all">All</button>
-</nav>
+<main class="grid-wrapper" id="main-content">
+  <div class="filter-row" id="filter-row">
+    <button class="filter-btn active" data-filter="all">All</button>
+  </div>
+</main>
 
 <main class="grid-wrapper" id="main-content"></main>
 
@@ -496,14 +552,14 @@
 </footer>
 
 <script>
-  const ROLE_ORDER = ['Curator', 'Vice Curator', 'Impact Officer', 'Current Shaper', 'Alumni'];
+  const ROLE_ORDER = ['Curator', 'Curator - Elect', 'Vice Curator - Elect', 'Impact Officer - Elect', 'Current Shaper', 'Alumni'];
 
   const SECTIONS = [
     {
       key: 'leadership',
       title: 'Leadership',
       subtitle: '2026–27',
-      roles: ['Curator', 'Vice Curator', 'Impact Officer'],
+      roles: ['Curator','Curator - Elect', 'Vice Curator - Elect', 'Impact Officer - Elect'],
       gridClass: 'leadership-grid'
     },
     {
@@ -580,7 +636,6 @@
       <a class="card-email" href="mailto:${member.email}">${member.email}</a>
       ${member.linkedin ? `<a class="linkedin-btn" href="${member.linkedin}" target="_blank" rel="noopener">
         <svg class="linkedin-icon" viewBox="0 0 24 24" fill="currentColor"><path d="M19 3A2 2 0 0 1 21 5V19A2 2 0 0 1 19 21H5A2 2 0 0 1 3 19V5A2 2 0 0 1 5 3H19M18.5 18.5V13.2A3.26 3.26 0 0 0 15.24 9.94C14.39 9.94 13.4 10.46 12.92 11.24V10.13H10.13V18.5H12.92V13.57A1.46 1.46 0 0 1 14.38 12.11A1.46 1.46 0 0 1 15.84 13.57V18.5H18.5M6.88 8.56A1.68 1.68 0 0 0 8.56 6.88A1.68 1.68 0 0 0 6.88 5.2A1.68 1.68 0 0 0 5.2 6.88A1.68 1.68 0 0 0 6.88 8.56M8.27 18.5V10.13H5.5V18.5H8.27Z"/></svg>
-        LinkedIn
       </a>` : ''}
     `;
     card.appendChild(footer);
@@ -658,7 +713,7 @@
 
   function buildFilters(members) {
     const industries = [...new Set(members.map(m => m.industry))].sort();
-    const bar = document.querySelector('.filter-bar');
+    const bar = document.querySelector('.filter-row');
     industries.forEach(ind => {
       const btn = document.createElement('button');
       btn.className = 'filter-btn';

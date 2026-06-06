@@ -20,16 +20,6 @@
     "linkedin": "https://www.linkedin.com/in/bridget-mcmanamon/"
   },
   {
-    "name": "Evan M.",
-    "role": "",
-    "industry": "Nonprofit",
-    "internal_role": "Curator - Elect",
-    "bio": "",
-    "email": "",
-    "headshot": "assets/headshots/evan-marlborough.jpg",
-    "linkedin": ""
-  },
-  {
     "name": "Tyler E. Tucker",
     "role": "Special Advisor to the Chief Executive Officer, Elizabeth Dole Foundation ",
     "industry": "Nonprofit",
@@ -158,5 +148,26 @@
     "email": "wallacesophia90@gmail.com",
     "headshot": "assets/headshots/sophia-wallace.JPG",
     "linkedin": "https://www.linkedin.com/in/sophia-wallace-90/"
+  },
+  {
+    "name": "Evan Wayne",
+    "role": "Program Manager for Impact at the Andrew Goodman Foundation",
+    "industry": "Voting Rights and Election Protection",
+    "internal_role": "Curator - Elect",
+    "bio": "Evan Wayne  is a native of Smyrna, Georgia. He is a 2020 graduate of Georgia State University with a degree in Public Policy, a minor in Cello Performance, and an inductee to Georgia State University’s 2022 40 under 40 class. At GSU, Evan was a founding member of his  Vote Everywhere, where he led civic engagement programming on campus. While pursuing his undergraduate studies, Evan served as a Summer Research Fellow at the United States Department of Defense, serving at the Pentagon. At the Pentagon, Evan worked in legislative affairs and worked to supported the DOD Office of General Counsel. Upon graduating, Evan became a 2020 Puffin Fellow with the Andrew Goodman Foundation. Evan founded the Georgia Youth Poll Worker Project, recruiting 1,000 poll workers for the 2020 general election and 2021 runoff.  The ACLU of Georgia officially acquired the Georgia Youth Poll Worker Project in December 2021, naming him a Voter Access Project Fellow between December 2021 and September 2023. As a fellow, Evan worked to protect on-campus early voting centers in Atlanta and supported ACLU GA's legislative initiatives.  Evan is a writer who has published in publications such as Forbes, Teen Vogue, and the Atlanta Journal-Constitution. After leaving the ACLU of Georgia, Evan served as the Managing Organizer of Georgia for Our Turn, where he worked with APS students to create a student mental health community board district-wide. During the 2024 election season, Evan worked as a VoteFlare Associate at the Shorenstein Center for Media and Politics at the Harvard Kennedy School and as the Religious Outreach advisor for Congresswoman Lucy McBath's Campaign. Evan served as the Senior Economic Policy Advisor at the Netherlands Consulate in Atlanta. Finally, Evan works as the Program Manager for Impact with the Andrew Goodman Foundation and the Atlanta Liaison for StartAruba.",
+    "email": "Evanmalbrough28@ gmail.com",
+    "headshot": "assets/headshots/evan-wayne.png",
+    "linkedin": "https://www.linkedin.com/in/evanmalbrough"
+  },
+
+  {
+    "name": "Paul Kruchoski",
+    "role": "Director, Guidehouse",
+    "industry": "Consulting",
+    "internal_role": "Alumni",
+    "bio": "Paul Kruchoski is a Director at Guidehouse, where he helps government agencies modernize operations and leverage emerging technologies. \n Previously, he served as a senior U.S. diplomat and career member of the Senior Executive Service. In his final role at the State Department, he served as the chief operating officer for public diplomacy, managing a $1.5 billion budget and 5,000 person global organization. He won the State Department's Sean Smith Award for Innovation in the Use of Technology. Prior assignments include creating and leading the Public Diplomacy Research and Evaluation Unit (REU), Deputy Director of the Collaboratory Innovation Unit, Special Assistant in the Bureau of Educational and Cultural Affairs, and several positions in the Bureau of International Organization Affairs. \n He is a term member of the Council on Foreign Relations and a graduate of the University of Cincinnati. Outside of his work, Paul is an accomplished cellist.",
+    "email": "paul.kruchoski@gmail.com",
+    "headshot": "assets/headshots/paul-kruchoski.jpg",
+    "linkedin": "https://www.linkedin.com/in/pkruchoski"
   }
 ]

@@ -169,5 +169,27 @@
     "email": "paul.kruchoski@gmail.com",
     "headshot": "assets/headshots/paul-kruchoski.jpg",
     "linkedin": "https://www.linkedin.com/in/pkruchoski"
+  },
+
+  {
+    "name": "Moritz Ludwig",
+    "role": "Protocol Officer & Social Secretary to the Ambassador, German Embassy",
+    "industry": "International Affairs",
+    "internal_role": "Current Shaper",
+    "bio": "Moritz supports Ambassador Jens Hanefeld in planning and executing diplomatic engagements to advance transatlantic partnerships and coordination. He holds a Bachelor's degree in International Relations and is a Georgetown Master of Public Policy graduate. ",
+    "email": "ml2135@georgetown.edu",
+    "headshot": "assets/headshots/moritz-ludwig.JPG",
+    "linkedin": "http://www.linkedin.com/in/moritzludwig"
+  },
+
+  {
+    "name": "Avyan Mejdeen",
+    "role": "Asylum Officer, USCIS",
+    "industry": "Federal Government",
+    "internal_role": "Current Shaper",
+    "bio": "Avyan serves as an Asylum Officer with the U.S. federal government, where she adjudicates complex claims from individuals fleeing persecution. She conducts rigorous, in-depth interviews to elicit survivors' accounts of trauma and displacement, weighs evidence against exacting legal standards, and renders determinations with life-altering consequences, approaching the work as a form of advocacy that ensures people fleeing danger are heard fully, treated with dignity, and judged fairly under the law.",
+    "email": "8mejdeenavyan@gmail.com",
+    "headshot": "assets/headshots/avyan-mejdeen.jpeg",
+    "linkedin": "https://www.linkedin.com/in/avyanmejdeen/"
   }
 ]

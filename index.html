@@ -552,14 +552,16 @@
 </footer>
 
 <script>
-  const ROLE_ORDER = ['Curator', 'Curator - Elect', 'Vice Curator - Elect', 'Impact Officer - Elect', 'Current Shaper', 'Alumni'];
+  const ROLE_ORDER = ['Curator', 'Curator - Elect', 'Vice Curator', 'Impact Officer', 'Current Shaper','Incoming Shaper', 'Alumni'];
 
   const SECTIONS = [
     {
       key: 'leadership',
       title: 'Leadership',
       subtitle: '2026–27',
-      roles: ['Curator','Curator - Elect', 'Vice Curator - Elect', 'Impact Officer - Elect'],
+      roles: ['Curator','Curator - Elect',
+       'Vice Curator - Elect','Vice Curator',
+        'Impact Officer - Elect','Impact Officer'],
       gridClass: 'leadership-grid'
     },
     {
@@ -567,6 +569,13 @@
       title: 'Current Shapers',
       subtitle: null,
       roles: ['Current Shaper'],
+      gridClass: ''
+    },
+    {
+      key: 'shapers',
+      title: 'Incoming Shapers',
+      subtitle: null,
+      roles: ['Incoming Shaper'],
       gridClass: ''
     },
     {
